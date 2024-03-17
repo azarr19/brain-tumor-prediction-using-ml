@@ -1,10 +1,8 @@
-# [Project] Python For Data Sciences
+## Brain-tumor-prediction-using-ml
 
 ## Author Info
 
-- Summera Kousar
 - Kaggle Link = https://www.kaggle.com/code/summerakousar/brain-tumor-prediction-using-ml-with-100-accuracy
-- Data Set Link = https://www.kaggle.com/datasets/jillanisofttech/brain-tumor
 
 ## Description
 
@@ -15,8 +13,8 @@ Mentee assigment Project from IBM Advance AI @ Infinite Learning Python For Data
 
 ## Group Info
 
-- Me : Gufron Aridho Triasa Putra Irawan
-- Member : Akhmad Hajar
+- Me : Akhmad Hajar
+- Member : Gufron Aridho Triasa Putra Irawan 
 - Member: Nisrina Ishmah Mahira
 - Member : Rayhan Dhafi
 
